@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: CloudFlare Plants
-email: junade@cloudflare.com
+title: IcyApril
+email: mjsa@junade.com
 description: > # this means to ignore newlines until "baseurl:"
-  CloudFlare's London office has some fine plants. Here we get to learn their names.
+  Blog of Junade Ali. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ju.je" # the base hostname & protocol for your site
+url: "https://icyapril.com" # the base hostname & protocol for your site
 twitter_username: IcyApril
 github_username:  IcyApril
 
