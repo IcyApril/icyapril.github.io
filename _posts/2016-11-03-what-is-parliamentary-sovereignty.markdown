@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Parliamentary Sovereignty?"
 date:   2016-11-03 09:15:30 -0700
-categories: politics law
+categories: politics law brexit
 ---
 
 Today, the High Court ruled that the British Government cannot provide notification
