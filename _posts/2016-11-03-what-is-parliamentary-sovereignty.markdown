@@ -19,7 +19,6 @@ Here are some examples of Prerogative powers:
 
 * appointment of public officials (ministers, judges) and giving honours
 * declaration of war, making of peace, movement of the military
-* dissolution of Parliament (though restrained by Nick Clegg's [Fixed-term Parliaments Act 2011](https://en.wikipedia.org/wiki/Fixed-term_Parliaments_Act_2011))
 * pardoning criminals and reducing their sentences
 * [issue, withdraw and refuse British passports](http://researchbriefings.files.parliament.uk/documents/SN06820/SN06820.pdf)
 
@@ -28,6 +27,9 @@ consultation of Parliament. In the United States, the Constitution grants Congre
 the sole power to declare war - in the United Kingdom, [the power to declare war lies with a
 Royal Prerogative](https://www.amazon.co.uk/Federal-Constitution-Britain/dp/1326061461). In recent times Parliament has usually been consulted on decisions
 of war and peace, but there is no legal right to this.
+
+Prerogative powers previously allowed the dissolution of Parliament, but this
+was repealed by Nick Clegg's [Fixed-term Parliaments Act 2011](https://en.wikipedia.org/wiki/Fixed-term_Parliaments_Act_2011).
 
 There exist other powers given to the Executive, but through Acts of Parliament; for
 example, Section 40 of the British Nationality Act 1981 allows the Home Secretary
