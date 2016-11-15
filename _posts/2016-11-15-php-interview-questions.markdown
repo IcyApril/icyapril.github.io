@@ -157,7 +157,7 @@ Big-O Notation is a mechanism to identify the difficulty of an algorithm, where 
 
 **What is the CAP Theorem?**
 
-The CAP Theorem states that it is impossible for a distributed computer system to guarantee:
+The CAP Theorem states that it is impossible for a distributed computer system to simultaneously guarantee:
 
 * Consistency - Every request receives the latest information that has been written, or an error.
 * Availability - Every request gets a request (which doesn't necessarily have to be the latest information).
