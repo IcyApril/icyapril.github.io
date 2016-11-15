@@ -153,7 +153,7 @@ Concurrency is effectively running multiple tasks concurrently (together at the 
 
 **What is Big-O Notation?**
 
-Big-O Notation is a mechanism to identify the difficulty of an algorithm, where ````O(n)```` is linear and ````O(n^2)```` is exponential. Getting your candidate to assess the difficulty of a given sorting algorithm can be useful, to assess how they practically apply this.
+Big-O Notation is a mechanism to identify the difficulty of an algorithm, where ````O(n)```` is linear and ````O(2^n)```` is exponential. Getting your candidate to assess the difficulty of a given sorting algorithm can be useful, to assess how they practically apply this.
 
 **What is the CAP Theorem?**
 
