@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tracking Drivers with Bluetooth"
-date:   2016-11-21 00:00:00 +0000
+date:   2016-11-21 09:00:00 +0000
 categories: privacy
 ---
 
