@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Refactoring Legacy PHP"
-date:   2016-12-23 09:10:00 -0000
+date:   2016-12-24 17:45:00 -0000
 categories: programming php
 ---
 
