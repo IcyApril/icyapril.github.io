@@ -81,6 +81,6 @@ Mitigating Technical Debt through refactoring your codebase doesn't slow down de
 
 ## Recognise Institutional Problems
 
-You may often find the problem with bad code rooted in organisational failures within your company. It is vital to ensure you that you not only achieve buy-in for refactoring, but that the process is not hindered by cargo-cult practices or internal political disputes. This may well mean you have to have a heart-to-heart conversation with your manage to ensure these barriers are removed.
+You may often find the problem with bad code rooted in organisational failures within your company. It is vital to ensure you that you not only achieve buy-in for refactoring, but that the process is not hindered by cargo-cult practices or internal political disputes. This may well mean you have to have a heart-to-heart conversation with your manager to ensure these barriers are removed.
 
 Badly implemented Scrum is often known of railroading proper engineering practices, no matter which management methodology you subscribe to - the need to subscribe to proper engineering practices is vital. Without ensuring code is properly tested or that code is constantly refactored, you risk falling back into the same trap of technical debt. I would highly recommend reviewing the practices described in Extreme Programming to see what you can implement from there.
