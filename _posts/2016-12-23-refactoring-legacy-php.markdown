@@ -65,7 +65,7 @@ In particular, approaches such as favouring inheritance over composition and pro
 
 Code Smells, such as complex logical statements should be replaced with better suited approaches, such as Polymorphism. There are many resources available to describe what Code Smells you should seek to mitigate, I have covered these extensively in Chapter 7 of my book [Mastering PHP Design Patterns](https://www.packtpub.com/application-development/mastering-php-design-patterns). I would also strongly recommend the books [Refactoring to Patterns](https://www.amazon.co.uk/gp/product/B001TKD4RQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B001TKD4RQ&linkCode=as2&tag=icya-21) and [Refactoring: Improving the Design of Existing Code](https://www.amazon.co.uk/gp/product/0201485672/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0201485672&linkCode=as2&tag=icya-21) (though not PHP specific).
 
-There are far too many approaches to cover here, but I'd highly recommend you research more into Code Smells and how to refactor code towards well suited patterns.
+There are far too many approaches to cover here, but I'd highly recommend you research more into Code Smells and how to refactor code towards well suited patterns. Additionally, a tool like [PHPMD](https://phpmd.org/) will help you find code smells.
 
 ## Deliver Value
 
