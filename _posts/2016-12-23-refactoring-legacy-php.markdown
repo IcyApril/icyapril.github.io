@@ -9,7 +9,7 @@ Like most PHP Developers, part of my career was built on the need to refactor le
 
 There are multiple bad practice approaches which can lead to a project being filled with technical debt; for example, source code with a complex and tangled control structure can be referred to as "Spaghetti Code". I remember a colleague once exclaiming "I have so much spaghetti, I could open an Italian restaurant!"
 
-Martin Fowler used the following pseudo-graph (plotting delivered functionality vs time on two stereotypical programming project) to describe [the phenomenon of technical debt](http://martinfowler.com/bliki/DesignStaminaHypothesis.html):
+Martin Fowler used the following pseudo-graph (plotting delivered functionality vs time on two stereotypical programming projects) to describe [the phenomenon of technical debt](http://martinfowler.com/bliki/DesignStaminaHypothesis.html):
 
 ![Design Stamina Graph](/images/2016-12-23-refactoring-legacy-php/designStaminaGraph.gif)
 
