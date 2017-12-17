@@ -407,6 +407,8 @@ Admin? true
 Suspended? false
 ```
 
+As before, you can modify and play with this code on [The Go Platground](https://play.golang.org/p/jdCdrQd98I).
+
 Dependency Injection effectively refers to injecting one object into the constructor when instantiating another, in the next section we'll cover how you can create functions which returns objects, instead of us directly needing to instantiate structs.
 
 ### Encapsulation
