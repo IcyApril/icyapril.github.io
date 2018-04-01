@@ -8,7 +8,7 @@
 # Site settings
 title: IcyApril
 email: mjsa@junade.com
-description: Junade Ali is a British software engineer/architect and a resident of the PHP Community. 
+description: Junade Ali is a British computer scientist with specialist knowledge of computer security, distributed systems and software design.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://icyapril.com" # the base hostname & protocol for your site
 twitter_username: IcyApril
