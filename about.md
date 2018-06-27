@@ -8,6 +8,8 @@ layout: page
 
 ## Press Coverage
 
+* **TechRepublic** - [Mozilla's new Firefox service can tell users if they're a victim of a data breach](https://www.techrepublic.com/article/mozillas-new-firefox-service-can-tell-users-if-theyre-a-victim-of-a-data-breach/)
+* **Threat Post** - [Mozilla Announces Firefox Monitor Tool Testing, Firefox 61](https://threatpost.com/mozilla-announces-firefox-monitor-tool-testing-firefox-61/133087/)
 * **TechCrunch** - [1Password bolts on a 'pwned password' check](https://techcrunch.com/2018/02/23/1password-bolts-on-a-pwned-password-check/)
 * **Ars Technica** - [Find out if your password has been pwned—without sending it to a server](https://arstechnica.com/information-technology/2018/02/new-tool-safely-checks-your-passwords-against-a-half-billion-pwned-passwords/)
 * **BGR** - [1Password has a new feature that alerts you if a password is stolen](https://bgr.com/2018/02/23/has-my-password-been-hacked-1password-can-answer-that/)
