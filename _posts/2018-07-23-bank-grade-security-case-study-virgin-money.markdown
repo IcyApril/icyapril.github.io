@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "\"Bank Grade Security\" - On Virgin Money and Authentication"
+title:  "\"Bank Grade Security\"? - A Look at Banking Authentication Practices"
 date:   2018-07-23 10:45:00 +0000
 categories: security
 ---
