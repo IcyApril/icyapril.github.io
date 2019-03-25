@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Pattern for Validating Design by Contract Assertions in Production (with Go and Sentry)"
-date:   2019-03-25 19:10:00 +0000
+date:   2019-03-25 19:40:00 +0000
 categories: go programming
 ---
 
